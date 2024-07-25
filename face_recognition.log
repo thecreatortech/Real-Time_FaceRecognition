@@ -1,0 +1,48 @@
+2024-07-24 22:18:36,492 - INFO - Image names: ['Elon musk.jpg', 'Elon_test.jpg', 'John Cena.jpg', 'Trump.jpeg']
+2024-07-24 22:18:36,609 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:18:45,580 - INFO - Encode Completed
+2024-07-24 22:18:45,580 - INFO - Encode list length: 4
+2024-07-24 22:19:15,051 - INFO - TRUMP already marked.
+2024-07-24 22:19:15,758 - INFO - TRUMP already marked.
+2024-07-24 22:19:16,519 - INFO - TRUMP already marked.
+2024-07-24 22:19:17,412 - INFO - TRUMP already marked.
+2024-07-24 22:19:18,258 - INFO - TRUMP already marked.
+2024-07-24 22:19:31,219 - INFO - Person marked for TRUMP at 22:19:31 on 2024-07-24
+2024-07-24 22:19:32,018 - INFO - TRUMP already marked.
+2024-07-24 22:19:32,901 - INFO - TRUMP already marked.
+2024-07-24 22:20:28,426 - INFO - TRUMP already marked.
+2024-07-24 22:20:29,188 - INFO - Person marked for ELON MUSK at 22:20:29 on 2024-07-24
+2024-07-24 22:20:29,945 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:30,720 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:31,451 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:36,349 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:37,151 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:38,325 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:39,138 - INFO - ELON MUSK already marked.
+2024-07-24 22:20:39,991 - INFO - ELON MUSK already marked.
+2024-07-24 22:21:26,109 - INFO - ELON MUSK already marked.
+2024-07-24 22:21:26,854 - INFO - ELON MUSK already marked.
+2024-07-24 22:22:02,120 - INFO - ELON MUSK already marked.
+2024-07-24 22:22:03,086 - INFO - ELON MUSK already marked.
+2024-07-24 22:28:16,883 - INFO - Image names: ['Elon musk.jpg', 'Elon_test.jpg', 'John Cena.jpg', 'Trump.jpeg']
+2024-07-24 22:28:17,031 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:28:24,514 - INFO - Encode Completed
+2024-07-24 22:28:24,514 - INFO - Encode list length: 4
+2024-07-24 22:33:34,283 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:33:43,520 - INFO - Encode Completed
+2024-07-24 22:33:43,521 - INFO - Encode list length: 4
+2024-07-24 22:37:02,495 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:37:10,198 - INFO - Encode Completed
+2024-07-24 22:37:10,198 - INFO - Encode list length: 4
+2024-07-24 22:38:49,774 - INFO - Shutdown signal received.
+2024-07-24 22:39:49,616 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:39:58,645 - INFO - Encode Completed
+2024-07-24 22:39:58,645 - INFO - Encode list length: 4
+2024-07-24 22:41:06,027 - INFO - Shutdown signal received.
+2024-07-24 22:43:50,480 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:43:58,937 - INFO - Encode Completed
+2024-07-24 22:43:58,937 - INFO - Encode list length: 4
+2024-07-24 22:45:10,175 - INFO - Shutdown signal received.
+2024-07-24 22:45:18,241 - INFO - Class names: ['Elon musk', 'Elon_test', 'John Cena', 'Trump']
+2024-07-24 22:45:27,154 - INFO - Encode Completed
+2024-07-24 22:45:27,154 - INFO - Encode list length: 4
